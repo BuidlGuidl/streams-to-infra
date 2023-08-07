@@ -17,8 +17,8 @@ export const Header = () => {
               Jessy
             </a>{" "}
             and{" "}
-            <a href="https://github.com/Divide-By-0" target="_blank" rel="noreferrer">
-              Aayush
+            <a href="https://github.com/0xJepsen" target="_blank" rel="noreferrer">
+              Waylon
             </a>
           </div>
         </div>
