@@ -124,7 +124,12 @@ const Home: NextPage = () => {
           </p>
           <p>
             funded by{" "}
-            <a target="_blank" href="https://buidlguidl.com" rel="noreferrer">
+            <a
+              target="_blank"
+              href="https://buidlguidl.com"
+              rel="noreferrer"
+              className="pl-1 text-white cursor-pointer"
+            >
               🏰 BuidlGuidl
             </a>
             !
